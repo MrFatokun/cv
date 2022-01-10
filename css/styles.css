@@ -1,0 +1,42 @@
+body{
+  margin: auto;
+  background-color: #f5eec2;
+  text-align: center;
+  font-family: sans-serif;
+}
+h1{
+  margin: 0;
+  font-family: 'Sacramento',cursive;
+  font-size: 90px;
+  color: #416a59;
+
+}
+img {
+  height: 300px;
+}
+.mypicture{
+  border-radius: 100%;
+}
+.mypicture:hover{
+border-radius: 5%;
+}
+.duration{
+text-align: right;
+}
+.aboutme{
+  margin: 0 auto 0 auto;
+  color: #39395f
+}
+.skilllist{
+  margin-left: 46%;
+  text-align: justify;
+}
+.headerruler {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 8px;
+  width: 5%;
+}
+.experienced{
+  text-align: justify;
+}
